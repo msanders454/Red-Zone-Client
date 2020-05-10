@@ -12,6 +12,7 @@ export default class Header extends Component {
     }
 
     renderLogoutLink() {
+        console.log('have a token')
         return (
             <div className='Header__logged-in'>
                 <Link
@@ -49,6 +50,7 @@ export default class Header extends Component {
     }
 
     renderLoginLink() {
+        console.log('have 0 tokens')
         return (
             <div className='Header__not-logged-in'>
                 <Link
