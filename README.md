@@ -12,7 +12,7 @@ Users will create an account and set up thier budget amount. They can then add e
 
 ### Demo
 
-[Live Page](red-zone-client.now.sh)
+[Live Page](https://red-zone-client.now.sh/)
 
 ### Demo Log in
 
